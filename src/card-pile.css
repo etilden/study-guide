@@ -1,0 +1,19 @@
+.card {
+    height: 35vh;
+    width: 40vw;
+    background-color: rgb(235, 248, 255);
+    border: 3px solid black;
+    border-radius: 3px;
+    padding: 3rem;
+    position: relative;
+    overflow:auto;
+  }
+  
+  .question {
+    text-emphasis: bold;
+    font-size: x-large;
+  }
+  
+  .content {
+    text-align: left;
+  }
